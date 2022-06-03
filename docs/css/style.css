@@ -434,6 +434,11 @@ footer a:hover{
         right: 5%;
         top: 30%;
     }    
+
+    #close {
+        top: 0;
+        right: 2%;
+    }
     
     
     .box_img img {
@@ -516,6 +521,11 @@ h2{
 #next {
     right: 5%;
     top: 20%;
+}
+
+#close {
+    top: 0;
+    right: 2%;
 }
 
 
