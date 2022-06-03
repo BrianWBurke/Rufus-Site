@@ -397,6 +397,11 @@ footer a:hover{
         display:none;
     }
 
+    .box_img img {
+        height: 50vh;
+        opacity: 0;
+    }
+
 }
 
 
@@ -453,7 +458,10 @@ h2{
     margin: 0;
 }
 
-
+.box_img img {
+    height: 50vh;
+    opacity: 0;
+}
 
 
 }
