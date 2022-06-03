@@ -242,6 +242,18 @@ a {
     text-align: center;
 }
 
+.btn2 {
+    color: #fff;
+    font-family: 'arial';
+    text-decoration: none;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
 #prev {
     left: 5%;
     top: 45%;
@@ -402,6 +414,33 @@ footer a:hover{
         opacity: 0;
     }
 
+    .btn2 {
+        color: #fff;
+        font-family: 'arial';
+        text-decoration: none;
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    #prev {
+        left: 5%;
+        top: 30%;
+    }
+    
+    #next {
+        right: 5%;
+        top: 30%;
+    }    
+    
+    
+    .box_img img {
+        height: 70vh;
+        opacity: 0;
+    }
+
 }
 
 
@@ -457,6 +496,28 @@ h2{
     padding-bottom: 5px;
     margin: 0;
 }
+
+.btn2 {
+    color: #fff;
+    font-family: 'arial';
+    text-decoration: none;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#prev {
+    left: 5%;
+    top: 20%;
+}
+
+#next {
+    right: 5%;
+    top: 20%;
+}
+
 
 .box_img img {
     height: 50vh;
